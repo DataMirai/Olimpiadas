@@ -1,8 +1,8 @@
 
 
-source("black_theme.R")
-source("light_theme.R")
-source("ui.R")
+source("Themes/black_theme.R")
+source("Themes/light_theme.R")
+source("Structure/ui.R")
 `%>%` <- magrittr::`%>%`
 
 
